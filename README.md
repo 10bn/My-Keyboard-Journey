@@ -7,8 +7,11 @@ This is a work in progress and I just started writing it.
 
 #### Pictures
 
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-24.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-34.jpg" width="150"> <img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-35.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-36.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-37.jpg" width="150"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-39.jpg" width="150"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-31.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-32.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-34.jpg" width="200">
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\1.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\2.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\3.jpg">|
+|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\4.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\5.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\6.jpg">|
+|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\7.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpg">|
 #### 3D Models
 
 ##### Skeletyl Trackball Mounts
