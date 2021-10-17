@@ -7,15 +7,7 @@ This is a work in progress and I just started writing it.
 
 #### Pictures
 
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-24.jpg" width="200"> |
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-34.jpg" width="150"> 
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-35.jpg" width="200">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-36.jpg" width="200">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-37.jpg" width="150">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-39.jpg" width="150">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-31.jpg" width="200">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-32.jpg" width="200">
-<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-34.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-24.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-34.jpg" width="150"> <img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-35.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-36.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-37.jpg" width="150"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-39.jpg" width="150"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-31.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-32.jpg" width="200"><img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-34.jpg" width="200">
 
 #### 3D Models
 
