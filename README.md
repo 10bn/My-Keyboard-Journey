@@ -1,7 +1,15 @@
-# JaDDeL's DIY ergonomic split keybord.
-This is how I build my own ergonomic split keyboard. 
+# My (ergonomic) keyboard journey. 
 
-## References
+## [Skeletyl](https://github.com/Bastardkb/Skeletyl) by [Bastardkb](https://github.com/Bastardkb/)
+
+### Integrating the [Yushakobo Pixart PAW3204 0A Trackball](https://blog-eng.yushakobo.jp/entry/2020/04/01/151617)
+
+#### Pictures
+
+:::image type="content" source="boards/bk-boards/skeletyl/pictures/photo_2021-10-17_08-55-24.jpg" alt-text="Test":::
+
+
+## Notes & References
 
 - [Lily58 Reddit Pimoroni Trackball](https://www.reddit.com/r/ErgoMechKeyboards/comments/orh0et/lily58_with_pimoroni_trackball_and_tilttent/)
 - [/DEV/TTY MT Cutom KeyCap Set](https://drop.com/buy/drop-matt3o-devtty-custom-keycap-set/details#details)
