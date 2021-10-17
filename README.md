@@ -14,19 +14,15 @@ This is a work in progress and I just started writing it.
 
 ##### V2
 
-<img width="150" alt="Picture" src="boards\bk-boards\skeletyl\pictures\4.jpg">
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\3.jpg">
+<img width="150" alt="Picture" src="boards\bk-boards\skeletyl\pictures\4.jpg">  <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\3.jpg">
 
 ##### V3
 
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\5.jpg">
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\6.jpg">
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\7.jpg">
+<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\5.jpg">  <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\6.jpg">  <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\7.jpg">
 
 ##### V4
 
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpeg">
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpeg">
+<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpeg"> <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpeg">
 
 ##### Stuff I want to check out.
 
