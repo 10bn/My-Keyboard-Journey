@@ -11,7 +11,7 @@ This is a work in progress and I just started writing it.
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\1.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\2.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\3.jpg">|
 |<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\4.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\5.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\6.jpg">|
-|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\7.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpg">|
+|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\7.jpg">  |  <img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpeg">|<img width="1604" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpeg">|
 #### 3D Models
 
 ##### Skeletyl Trackball Mounts
