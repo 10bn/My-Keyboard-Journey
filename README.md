@@ -11,9 +11,11 @@ This is a work in progress and I just started writing it.
 
 #### 3D Models
 
-##### Skeletyl Trackball MX Side Mount
-- [Trackball side mount](https://a360.co/3j9Dhkv)
+##### Skeletyl Trackball Mounts
 
+- [Trackball side mount](https://a360.co/3j9Dhkv)
+- [Trackball mx mount](https://a360.co/3DRB3xU)
+- [Trackball choc mount](https://a360.co/3BP4X5j)
 ##### Yushakobo Pixart PAW3204 Trackball
 
 <img src="things\Yushakobo Pixart PAW3204 0A\Yushakobo Pixart PAW3204 0A Trackball.jpg" width="200">
