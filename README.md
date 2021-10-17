@@ -1,13 +1,33 @@
 # My (ergonomic) keyboard journey. 
 
+This is a work in progress and I just started writing it. 
 ## [Skeletyl](https://github.com/Bastardkb/Skeletyl) by [Bastardkb](https://github.com/Bastardkb/)
 
 ### Integrating the [Yushakobo Pixart PAW3204 0A Trackball](https://blog-eng.yushakobo.jp/entry/2020/04/01/151617)
 
 #### Pictures
 
-:::image type="content" source="boards/bk-boards/skeletyl/pictures/photo_2021-10-17_08-55-24.jpg" alt-text="Test":::
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-24.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-34.jpg" width="150">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-35.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-36.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-37.jpg" width="150">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_08-55-39.jpg" width="150">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-31.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-32.jpg" width="200">
+<img src="boards\bk-boards\skeletyl\pictures\photo_2021-10-17_09-18-34.jpg" width="200">
 
+#### 3D Models
+
+##### Skeletyl Trackball MX Side Mount
+- [Trackball side mount](https://a360.co/3j9Dhkv)
+
+##### Yushakobo Pixart PAW3204 Trackball
+
+<img src="things\Yushakobo Pixart PAW3204 0A\Yushakobo Pixart PAW3204 0A Trackball.jpg" width="200">
+<img src="things\Yushakobo Pixart PAW3204 0A\top.jpg" width="55">
+
+- [Yushakobo Pixart PAW3204 0A Trackball Dummy](https://a360.co/3vrXreA)
 
 ## Notes & References
 
