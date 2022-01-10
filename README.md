@@ -24,9 +24,13 @@ This is a work in progress and I just started writing it.
 
 <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\8.jpeg"> <img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\9.jpeg">
 
-##### Stuff I want to check out.
+##### The Stokke / Varier Zero Gravity Chair  
 
-<img width="200" alt="Picture" src="boards\bk-boards\skeletyl\pictures\1.jpg"> 
+<img width="200" alt="Picture" src="pictures\chair1.JPEG">  <img width="200" alt="Picture" src="pictures\chair2.JPEG">  
+
+<img width="200" alt="Picture" src="pictures\chair3.JPEG">  <img width="200" alt="Picture" src="pictures\keyboard1.JPEG">
+
+<img width="200" alt="Picture" src="pictures\mount_close.JPEG">  <img width="200" alt="Picture" src="pictures\printing_the_mount.JPEG">
 
 #### 3D Models
 
@@ -41,6 +45,16 @@ This is a work in progress and I just started writing it.
 <img src="things\Yushakobo Pixart PAW3204 0A\top.jpg" width="55">
 
 - [Yushakobo Pixart PAW3204 0A Trackball Dummy](https://a360.co/3vrXreA)
+
+##### Gravity Chair Mount
+
+<img width="200" alt="Picture" src="things\Stokke Chair Mount\mount1.jpg">  
+<img width="200" alt="Picture" src="things\Stokke Chair Mount\rod1.jpg">  
+<img width="200" alt="Picture" src="things\Stokke Chair Mount\tbk mini bottom plate.jpg">  
+<img width="200" alt="Picture" src="things\Stokke Chair Mount\tenting mount1.jpg">  
+
+- [Construction files can be found here](https://github.com/jaddel/My-Keyboard-Journey/tree/main/things/Stokke%20Chair%20Mount)
+
 
 ## Notes & References
 
