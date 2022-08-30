@@ -1,6 +1,7 @@
 # My (ergonomic) keyboard journey. 
 
-This is a work in progress and I just started writing it. 
+This is a work in progress.
+
 ## [Skeletyl](https://github.com/Bastardkb/Skeletyl) by [Bastardkb](https://github.com/Bastardkb/)
 
 ### Integrating the [Yushakobo Pixart PAW3204 0A Trackball](https://blog-eng.yushakobo.jp/entry/2020/04/01/151617)
